@@ -1,0 +1,21 @@
+{
+  "name": "webpack_es6_transpile.git",
+  "version": "1.0.0",
+  "repository": "git@github.com:yutaroman/webpack_es6_transpile.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --watch --mode development",
+    "prod": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.4.1",
+    "eslint": "^6.6.0",
+    "eslint-loader": "^3.0.2",
+    "regenerator-runtime": "^0.13.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
