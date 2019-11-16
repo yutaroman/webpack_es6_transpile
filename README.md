@@ -24,7 +24,7 @@ Node.js は、以下のバージョン管理ツールの使用を想定
 
 任意のディレクトリでローカルインストール
 
-'$ yarn install'
+`$ yarn install`
 
 ## Commands
 
